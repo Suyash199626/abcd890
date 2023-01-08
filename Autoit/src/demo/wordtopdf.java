@@ -21,6 +21,8 @@ public static void main(String[] args) throws IOException {
 	
 	Runtime.getRuntime().exec("C:\\Users\\suyas\\OneDrive\\Desktop\\autoitpractice\\Autoi3.exe");
 	
+	System.out.println("hello everyone");
+	
 	
 }
 }
